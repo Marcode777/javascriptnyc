@@ -1,0 +1,1 @@
+TweenMax.to(".first",3.5, {x:500, ease:Back.easeOut});
