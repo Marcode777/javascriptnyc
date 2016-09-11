@@ -2,7 +2,6 @@
 
 .first{
   position:relative;
-  font-family:"Source Sans Pro",Calibri,Candara,Arial,sans-serif;
 }
 
 .grid{
@@ -11,7 +10,7 @@
 }
 
 h2{
-  font-family:"Source Sans Pro",Calibri,Candara,Arial,sans-serif;
+  color:yellow;
 }
 
 
